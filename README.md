@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning psychology in a french university, and programming by myself
 - 💞️ I’m looking foward to collaborate on automating psychometry
 - 📫 How to reach me :
-    - Mail : gcosnier.secretariatg@gmail.com
+    - Mail : gcosnier.secretariat@gmail.com
     - Youtube channel : https://www.youtube.com/c/Lesingequibaille
     - Website : https://guillaumecosnier.psychoscope.net/
