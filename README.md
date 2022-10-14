@@ -4,5 +4,5 @@
 - 💞️ I’m looking foward to collaborate on automating psychometry
 - 📫 How to reach me :
     - Mail : gcosnier.secretariat@gmail.com
-    - Youtube channel : https://www.youtube.com/c/Lesingequibaille
+    - Youtube channel : https://www.youtube.com/@ksocial
     - Website : https://guillaumecosnier.psychoscope.net/
