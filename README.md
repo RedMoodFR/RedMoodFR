@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RedMoodFR
 - 👀 I’m interested in psychology and data science
-- 🌱 I’m currently learning psychology in a french university, and programming by myself
+- 🌱 I’m currently learning behavioral engineering in a french university, and programming by myself
 - 💞️ I’m looking foward to collaborate on automating psychometry
 - 📫 How to reach me :
-    - Mail : gcosnier.secretariat@gmail.com
+    - Mail : guillaume.cosnier@etu.univ-poitiers.fr
     - Youtube channel : https://www.youtube.com/@ksocial
-    - Website : https://guillaumecosnier.psychoscope.net/
+    - Website : https://psychoscope.net/
